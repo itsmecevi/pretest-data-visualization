@@ -7,13 +7,15 @@
 a. Tableau
 <Br>
 b. Power BI
-  <Br>
+<Br>
 c. Oracle-X
-    <Br>
+<Br>
 d. Looker
-      <Br>
+<Br>
 e. Google Data Studio
-        <Br>
+      
+      
+      
 
 2. Mana tool yang berguna untuk melakukan analisa geo spasial?
 
