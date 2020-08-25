@@ -5,10 +5,15 @@
 1. Mana yang bukan merupakan data visualization tool?
 
 a. Tableau
+<Br>
 b. Power BI
+  <Br>
 c. Oracle-X
+    <Br>
 d. Looker
+      <Br>
 e. Google Data Studio
+        <Br>
 
 2. Mana tool yang berguna untuk melakukan analisa geo spasial?
 
