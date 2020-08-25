@@ -77,7 +77,7 @@ a. Option A
 <Br>
 b. Option B-X
 
-### 4. Visual mana yang lebih jelas dan tidak menimbulkan bias?
+### 4. Visual mana yang lebih jelas dan tidak menimbulkan bias dalam interpretasi angkanya?
 
 ![dv4](https://user-images.githubusercontent.com/27078712/91200966-0e226800-e72a-11ea-91c1-e160f22bcc2c.PNG)
 
