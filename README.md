@@ -95,4 +95,44 @@ a. Option A
 <Br>
 b. Option B
       
+      
+6. Visual mana yang lebih mudah dibaca labelnya (tulisan negara)?
+
+![dv6](https://user-images.githubusercontent.com/27078712/91201861-2e065b80-e72b-11ea-8aa8-9b12b1c7580d.PNG)
+
+
+a. Option A
+<Br>
+b. Option B
+
+      
+ 7. Visual mana yang lebih mudah difahami dalam penggunaan warnanya?
+ 
+ ![dv7](https://user-images.githubusercontent.com/27078712/91201993-61e18100-e72b-11ea-9fbe-f0c4a8d7345e.PNG)
+
+ 
+a. Option A
+<Br>
+b. Option B
+      
+
+8. Visual dalam bentuk tabel mana yang lebih cepat dan mudah dikenali untuk data dengan kinerja yang kurang?
+
+![dv8](https://user-images.githubusercontent.com/27078712/91202247-b97fec80-e72b-11ea-84e5-b44b993d9fbd.PNG)
+
+
+a. Option A
+<Br>
+b. Option B
+
+
+9. Visual mana yang memberikan gambaran jelas tentang perubahan relatif dalam data di bawah?
+
+![dv9](https://user-images.githubusercontent.com/27078712/91202471-12e81b80-e72c-11ea-8e5b-69fd33596593.PNG)
+
+
+a. Option A
+<Br>
+b. Option B
+
 
