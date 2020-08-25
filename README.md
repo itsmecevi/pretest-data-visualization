@@ -1,8 +1,8 @@
 # pretest-data-visualization
 
-### Knowledges:
+## Knowledges:
 
-1. Mana yang bukan merupakan data visualization tool?
+### 1. Mana yang bukan merupakan data visualization tool?
 
 a. Tableau
 <Br>
