@@ -77,8 +77,22 @@ a. Option A
 <Br>
 b. Option B
 
+4. Visual mana yang lebih jelas dan tidak menimbulkan bias?
+
+![dv4](https://user-images.githubusercontent.com/27078712/91200966-0e226800-e72a-11ea-91c1-e160f22bcc2c.PNG)
 
 
-      
+a. Option A
+<Br>
+b. Option B
+
+5. Visual mana yang lebih jelas menunjukan data kota yang mempunyai nilai positif?
+
+![dv5](https://user-images.githubusercontent.com/27078712/91201191-58a3e480-e72a-11ea-8b49-d8c3ce434269.PNG)
+
+
+a. Option A
+<Br>
+b. Option B
       
 
